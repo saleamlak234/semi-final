@@ -5,5 +5,4 @@ client/node_modules
 .env    
 client/.env.development
 client/.env.production
-server/.env.development
-server/.env.production  
+server/.env
